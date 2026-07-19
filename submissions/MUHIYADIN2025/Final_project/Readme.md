@@ -2,6 +2,9 @@
 
 **Prepared by:** Muhiadin Said Hassan  
 **Project Type:** Unsupervised Learning (Clustering) & Supervised Learning (Classification)  
+
+Final Project — Customer Segmentation & Churn Prediction
+
 **Technologies:** Python, Jupyter Notebook, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
@@ -70,3 +73,12 @@ churn-segmentation-project/
 ├── elbow_telecom.png                   # Elbow method plot generated from the code
 ├── telecom_segmented_customers.csv     # Final processed dataset containing Segment_ID
 └── README.md                           # This documentation file
+
+
+
+
+Final Project — Customer Segmentation & Churn Prediction
+
+Author: Muhiadin Said Hassan
+Program: Goobo Labs Machine Learning Bootcamp
+GitHub Repository: https://github.com/MUHIYADIN2025/churn-segmentation-project
